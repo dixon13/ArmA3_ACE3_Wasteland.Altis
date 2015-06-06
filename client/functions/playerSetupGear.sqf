@@ -37,14 +37,20 @@ _player addWeapon "hgun_ACPC2_F";
 _player addMagazine "9Rnd_45ACP_Mag";
 _player addMagazine "9Rnd_45ACP_Mag";
 _player addMagazine "9Rnd_45ACP_Mag";
+<<<<<<< HEAD
 _player addMagazine "ACE_HandFlare_White";
+=======
+>>>>>>> eb0ec3ac7f467913d17310c4b8c44b1f8c03a040
 _player addItem "ACE_fieldDressing";
 _player addItem "ACE_fieldDressing";
 _player addItem "ACE_fieldDressing";
 _player addItem "ACE_fieldDressing";
 _player addItem "ACE_fieldDressing";
 _player addItem "ACE_morphine";
+<<<<<<< HEAD
 _player addItem "ACE_EarPlugs";
+=======
+>>>>>>> eb0ec3ac7f467913d17310c4b8c44b1f8c03a040
 _player addItem "ACE_epinephrine";
 _player selectWeapon "hgun_ACPC2_F";
 

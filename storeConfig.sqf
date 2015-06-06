@@ -629,6 +629,7 @@ genItemArray = compileFinal str
 	["Remote Designator Bag (NATO) [DLC]", "B_Static_Designator_01_weapon_F", 1000, "backpack"],
 	["Remote Designator Bag (CSAT) [DLC]", "O_Static_Designator_02_weapon_F", 1000, "backpack"],
 	["GPS", "ItemGPS", 100, "gps"],
+<<<<<<< HEAD
     ["MicroDAGR GPS", "ACE_microDAGR", 120, "gps"],
 	["Bandage (Basic)", "ACE_fieldDressing", 5, "item"],
     ["QuikClot", "ACE_quikclot", 5, "item"],
@@ -653,6 +654,15 @@ genItemArray = compileFinal str
     ["Bodybag", "ACE_bodybag", 1, "item"],
     //["Surgical Kit", "ACE_surgicalKit", 25, "item"],
     ["Toolkit", "ToolKit", 150, "item"],
+=======
+	["Bandage (Basic)", "ACE_fieldDressing", 5, "item"],
+    ["Morphine autoinjector","ACE_morphine",20,"item"],
+    ["Epinephrine autoinjector","ACE_epinephrine",20,"item"],
+    ["Saline IV, 1000ml","ACE_salineIV",24,"item"],
+    ["Saline IV, 500ml","ACE_salineIV_500",12,"item"],
+    ["Saline IV, 250ml","ACE_salineIV_250",6,"item"],
+	["Toolkit", "ToolKit", 150, "item"],
+>>>>>>> eb0ec3ac7f467913d17310c4b8c44b1f8c03a040
 	["Mine Detector", "MineDetector", 100, "item"],
 	["NV Goggles (GEN1)", "ACE_NVG_Gen1", 100, "nvg"],
     ["NV Goggles (GEN2)", "ACE_NVG_Gen2", 150, "nvg"],
