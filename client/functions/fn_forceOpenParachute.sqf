@@ -15,7 +15,7 @@ _pos = getPosATL player;
 
 if (_pos select 2 < 10) then
 {
-	_para = createVehicle ["NonSteerable_Parachute_F", _pos, [], 0, "FLY"];
+	_para = createVehicle ["ACE_NonSteerableParachute", _pos, [], 0, "FLY"];
 	_para setPosATL _pos;
 	_para setDir 0;
 }
